@@ -27,5 +27,5 @@ if(operacion===1){
         alert(nombreCliente + ", usted debe recibir un total de $" + ventaDolares)
     }  
 } else{
-    alert ("Hola " + nombreCliente + ", ingrese una opción correcta.")
+    alert ("Hola " + nombreCliente + ", la opción ingresada es incorrecta.")
 }
